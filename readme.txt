@@ -20,3 +20,4 @@ Objects: Square:
             height
             color
             make(imagepath) 
+added this line from the github gui.
