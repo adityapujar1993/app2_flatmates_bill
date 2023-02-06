@@ -19,4 +19,7 @@ Objects: Square:
             width
             height
             color
-            make(imagepath) 
+            make(imagepath)
+
+
+added this line from detached head.  
